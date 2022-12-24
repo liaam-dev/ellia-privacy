@@ -2,7 +2,7 @@ This is the privacy policy for ellia bot. Here you can find all the information 
 
 ## What data do we collect?
 
-We only collect channel IDS, Message content is collected when someone send a swear messages.
+We only collect channel IDS.
 
 ## Why do we need the data?
 
